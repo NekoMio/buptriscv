@@ -1,0 +1,2 @@
+imemblock.v,verilog,xil_defaultlib,../../../../buptriscv.gen/sources_1/ip/imemblock/sim/imemblock.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

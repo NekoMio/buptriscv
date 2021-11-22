@@ -1,0 +1,3 @@
+clockgen_clk_wiz.v,verilog,xil_defaultlib,../../../../buptriscv.gen/sources_1/ip/clockgen/clockgen_clk_wiz.v,incdir="$ref_dir/../../../ipstatic"incdir="../../../ipstatic"
+clockgen.v,verilog,xil_defaultlib,../../../../buptriscv.gen/sources_1/ip/clockgen/clockgen.v,incdir="$ref_dir/../../../ipstatic"incdir="../../../ipstatic"
+glbl.v,Verilog,xil_defaultlib,glbl.v

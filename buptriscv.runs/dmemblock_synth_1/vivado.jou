@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Jul  8 16:44:46 2021
+# Process ID: 452
+# Current directory: C:/Users/Regen/Desktop/buptriscv/buptriscv.runs/dmemblock_synth_1
+# Command line: vivado.exe -log dmemblock.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dmemblock.tcl
+# Log file: C:/Users/Regen/Desktop/buptriscv/buptriscv.runs/dmemblock_synth_1/dmemblock.vds
+# Journal file: C:/Users/Regen/Desktop/buptriscv/buptriscv.runs/dmemblock_synth_1\vivado.jou
+#-----------------------------------------------------------
+source dmemblock.tcl -notrace
